@@ -1,0 +1,2 @@
+export const UPDATE_PROFILE = 'UPDATE_PROFILE';
+export type UPDATE_PROFILE = typeof UPDATE_PROFILE;
